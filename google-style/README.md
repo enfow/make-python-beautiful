@@ -38,7 +38,7 @@ pylint의 warning들은 empty-docstring 과 같은 심볼릭 네임으로 표현
 
 위와 같이 warning을 제거하게 되면 제거한 부분을 다시 찾아보기 쉽다는 장점이 있습니다.
 
-pylint의 warning들은 다음 명령어를 통해 모두 출력할 수 있습니다([출력 결과](<./pylint_exmaple/pylint_list_msgs.txt>)).
+pylint의 warning들은 다음 명령어를 통해 모두 출력할 수 있습니다([출력 결과](<./pylint_example/pylint_list_msgs.txt>)).
 
 ```bash
 $ pylint --list-msgs
